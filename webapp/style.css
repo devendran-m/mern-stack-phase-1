@@ -2,4 +2,18 @@ h1{
     color: black;
     background-color: aquamarine;
     text-align: center;
+    
 }
+
+div p{
+    color: rgb(5, 136, 118);
+    text-align: center;    
+}
+
+table, tr, th, td{
+    color: rgb(20, 22, 158);
+    column-width: auto;
+    border: 4px solid black;
+    
+}
+
